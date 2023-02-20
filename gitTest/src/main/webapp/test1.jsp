@@ -12,7 +12,7 @@
 <<<<<<< HEAD
 <h2>eclipse update</h2>
 =======
-<h2>git update</h2>
+<h2>git updateeeee</h2>
 >>>>>>> refs/remotes/choose_remote_name/master
 </body>
 </html>
